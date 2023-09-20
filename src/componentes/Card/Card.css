@@ -1,0 +1,20 @@
+.carrd{
+    margin: 1%;
+    border: none;
+}
+
+.Titulo{
+    color:  rgb(213, 87, 173);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.textocard{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textocardprecio{
+    text-align: center;
+    color: rgb(43, 121, 46);
+}
